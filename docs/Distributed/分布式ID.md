@@ -1,0 +1,4 @@
+- 数据库自增 id
+- 设置数据库 sequence 或者表自增字段步长
+- UUID
+- Snowflake 算法
